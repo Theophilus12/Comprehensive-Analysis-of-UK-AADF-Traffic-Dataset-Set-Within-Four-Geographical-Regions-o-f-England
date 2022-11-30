@@ -1,0 +1,2 @@
+# Comprehensive-Analysis-of-UK-AADF-Traffic-Dataset-Set-Within-Four-Geographical-Regions-o-f-England
+Traffic flow detection is a component of a freeway traffic surveillance system that detects data such as traffic volume, vehicle type, speed, and possession ratio to control and ensure traffic flow is unobstructed and safe, as well as to provide supervisors with an accurate forecast basis. Traffic congestion is a major concern in today's metropolis
